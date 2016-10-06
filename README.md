@@ -1,4 +1,4 @@
-TaipeiPy_201608
+Taipei Python User Group: 2016 August
 ========
 
 [![Build Status](https://travis-ci.org/AaronYALai/TaipeiPy_201608.svg?branch=master)](https://travis-ci.org/AaronYALai/TaipeiPy_201608)
@@ -7,6 +7,7 @@ TaipeiPy_201608
 
 About
 --------
+[taipeipy201608](http://www.meetup.com/Taipei-py/events/233525778/)
 
 Im:
 - **M**: 
