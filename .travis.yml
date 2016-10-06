@@ -12,6 +12,8 @@ before_install:
   - pip install wheel
   - pip install coveralls
   - sudo apt-get update
+  - sudo apt-get install -y imagemagick ffmpeg
+  - sudo rm /etc/ImageMagick/policy.xml
 
 
 env:
