@@ -4,29 +4,25 @@ Taipei Python User Group: 2016 August
 [![Build Status](https://travis-ci.org/AaronYALai/TaipeiPy_201608.svg?branch=master)](https://travis-ci.org/AaronYALai/TaipeiPy_201608)
 [![Coverage Status](https://coveralls.io/repos/github/AaronYALai/TaipeiPy_201608/badge.svg?branch=master)](https://coveralls.io/github/AaronYALai/TaipeiPy_201608?branch=master)
 
+#### MoviePy: video editing by scripts 
 
 About
 --------
-[taipeipy201608](http://www.meetup.com/Taipei-py/events/233525778/)
+This repo is about the talk shared in August, 2016 on **Taipei Python User Group** (Taipei.Py) monthly meetup.
 
-Im:
-- **M**: 
-    * Co
-    * f
+Meetup Link: [taipeipy201608](http://www.meetup.com/Taipei-py/events/233525778/)
 
-- **ff**:
-    * ddd
-    * ddd
+Introduce a Python module to edit and compose videos or create special effects by scripts, which could play as the backend to empower the automatic AI video editing.
 
 Content
 --------
-- K
-- K
-- B
-- A
-- D
-- G
-- k
+- Basics: TextClip, ImageClip, VideoClip, AudioClip
+- Properties: set_position, set_duration, set_start, set_opacity
+- Texts: fontsize, color, font, stroke
+- Effects: fadein, crop, mirror, brighten, speedup
+- Screens: CompositeVideo, concatenate, resize, clips_array
+- Audio: adjust volume
+- Export: fps, codec, bitrate, audio_fps, audio_codec, audio_bitrate
 
 Usage
 --------
