@@ -1,0 +1,19 @@
+# Code coverage measurement for Python
+# https://pypi.python.org/pypi/coverage/4.0.3
+coverage==4.0.3
+
+# pytest: simple powerful testing with Python
+# https://pypi.python.org/pypi/pytest/2.9.2
+pytest==2.9.2
+
+# Pytest plugin for measuring coverage.
+# https://pypi.python.org/pypi/pytest-cov/2.2.0
+pytest-cov==2.2.0
+
+# the modular source code checker: pep8, pyflakes and co
+# https://pypi.python.org/pypi/flake8/2.5.4
+flake8==2.5.4
+
+# Python video editing module: cuts, concatenations, custom effects
+# https://pypi.python.org/pypi/moviepy
+moviepy==0.2.2.11
