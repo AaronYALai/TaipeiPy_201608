@@ -20,6 +20,7 @@ env:
   global:
     - PIP_WHEEL_DIR=$HOME/.cache/pip/wheels
     - PIP_FIND_LINKS=file://$HOME/.cache/pip/wheels
+    - FFMPEG_BINARY=auto-detect
 
 
 install:
