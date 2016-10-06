@@ -2,15 +2,16 @@
 # @Author: aaronlai
 # @Date:   2016-10-06 13:13:53
 # @Last Modified by:   AaronLai
-# @Last Modified time: 2016-10-06 18:53:34
+# @Last Modified time: 2016-10-06 19:09:40
 
-from moviepy.editor import *
+from moviepy.editor import *    # noqa
+
+
 # load video
 Truth = VideoFileClip('truth.mp4')
 
 # use font WeibeiTCB to support Chinese
 font = "WeibeiTCB"
-
 
 # Screen 1 - TextClip
 texts = [" 你     的時候腦袋有曾冒出過我嗎？",
