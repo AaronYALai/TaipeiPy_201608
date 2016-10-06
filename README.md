@@ -4,7 +4,7 @@ Taipei Python User Group: 2016 August Meetup
 [![Build Status](https://travis-ci.org/AaronYALai/TaipeiPy_201608.svg?branch=master)](https://travis-ci.org/AaronYALai/TaipeiPy_201608)
 [![Coverage Status](https://coveralls.io/repos/github/AaronYALai/TaipeiPy_201608/badge.svg?branch=master)](https://coveralls.io/github/AaronYALai/TaipeiPy_201608?branch=master)
 
-### MoviePy: video editing by scripts 
+## MoviePy: video editing by scripts 
 
 About
 --------
